@@ -1,0 +1,49 @@
+body{
+    background-image: url(https://media0.giphy.com/media/zC3vlpZ3eZBS0/giphy.gif?cid=6c09b952w1lud9bvqfjfdjbk8428m94x4r2hagfm3vks5ew1&rid=giphy.gif&ct=g);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.box-homepage{
+background-color: lightpink;
+border-width: 50px;
+border-style: solid;
+border-color: lightsalmon;
+margin-left: auto;
+margin-right: auto;
+position: relative;
+bottom: 530px;
+z-index: -1;
+}
+
+.gif-homepage{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.title{
+    text-align: center;
+    font-size: 45px;
+}
+
+.main{
+    position: relative;
+    top: 28px;
+}
+.smaller{
+    font-size: 25px;
+}
+
+ol{
+    text-align: center;
+}
+
+
+.link{
+    list-style-position: inside;
+    margin: 0;
+    font-size: 20px;
+}
